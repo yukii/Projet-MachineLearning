@@ -2,7 +2,7 @@
 Projet de groupe Machine Learning
 
 Groupe composé :
-- Amara Choukihi
+- Amara Chouikhi
 - Selim Ennouri
 - Mohammed Ali Farouki
 - Adam Litime
